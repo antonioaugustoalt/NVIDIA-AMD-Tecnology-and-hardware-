@@ -11,6 +11,8 @@ Notebooklm, projeto prático. Bootcamp Bradesco Gen AI e Dados
 
 Projeto: Assistente Especialista em Hardware para IA (AMD vs NVIDIA 2026)
 
+Link do Notebook: https://notebooklm.google.com/notebook/d32af988-f07d-4acb-a25a-cf9cb65cb747?authuser=1 
+
 Objetivo do Projeto
 O objetivo deste projeto foi utilizar o NotebookLM como uma ferramenta de apoio à decisão e "segundo cérebro" para navegar no complexo ecossistema de hardware voltado para Inteligência Artificial em 2026
 . O foco principal foi analisar e comparar as ofertas da AMD e NVIDIA para diferentes perfis de uso, desde o consumidor doméstico (notebooks e GPUs de entrada) até infraestruturas de grande escala (datacenters e parcerias globais)
