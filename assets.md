@@ -24,6 +24,16 @@ Comparação entre blackweel e rubin:
 
 --------------------------------------------------------------------------
 
+Print mostrando parte das fontes adicionadas ao Notebooklm:
+
+--------------------------------------------------------------------------
+
+<img width="613" height="1219" alt="image" src="https://github.com/user-attachments/assets/84071763-76b2-46dc-9348-0455ce236d36" />
+
+--------------------------------------------------------------------------
+
+
+
 
 
 
