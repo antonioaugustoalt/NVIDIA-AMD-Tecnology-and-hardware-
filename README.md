@@ -64,15 +64,3 @@ Avanço em Datacenters: A AMD emergiu como a principal alternativa para inferên
 Democratização do Preço: Identificou-se que em 2026, notebooks com IA robusta (NPU de 50 TOPS) já podem ser encontrados abaixo de R$ 5.000 no Brasil
 
 --------------------------------------------------------------------------------
-
-Evidências do uso do NotebookLM
-
-Exemplos de Prompts Utilizados
-"Quais processadores AMD são recomendados para IA em notebooks?"
-"Quais as gpus mais custo benefício para IA?"
-"Quais são as melhores promoções da AMD na Semana do Consumidor?"
-Respostas Geradas pela IA
-(As respostas detalhadas foram integradas no corpo do README e estão arquivadas nas sessões anteriores deste chat, fornecendo dados sobre o modelo Ryzen 7 7735HS para orçamentos de R$ 3.000 e as NPUs da linha Ryzen AI 300
-.)
-
---------------------------------------------------------------------------------
