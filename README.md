@@ -87,11 +87,4 @@ Para este projeto, utilizei uma abordagem de "Refinamento Contextual":
 3. **Métricas Objetivas:** Exigência de respostas baseadas em TOPS, TFLOPS e capacidade de VRAM em vez de adjetivos vagos.
 4. **Foco Geográfico:** Solicitação de dados específicos para o varejo brasileiro (preços em Reais e lojas locais como KaBuM!).
 
-Documentos de Base
-
-transcricao_entrevista_amd_brasil.txt
-relatorio_finterra_nvidia_2026.pdf
-comparativo_cuda_vs_rocm_aimultiple.pdf
-amd_road_map_datacenter_tbr.txt
-
 --------------------------------------------
