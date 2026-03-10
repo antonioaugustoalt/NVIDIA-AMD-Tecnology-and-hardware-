@@ -3,7 +3,7 @@
 
 
 
-<img width="1600" height="2000" alt="iaNotebookRecommendation" src="https://github.com/user-attachments/assets/2cba5c86-13c9-44ba-b15c-ea6328798185" />
+<img width="200" height="250" alt="iaNotebookRecommendation" src="https://github.com/user-attachments/assets/2cba5c86-13c9-44ba-b15c-ea6328798185" />
 
 
 
