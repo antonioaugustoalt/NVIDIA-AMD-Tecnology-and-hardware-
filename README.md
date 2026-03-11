@@ -20,7 +20,6 @@ O objetivo deste projeto foi utilizar o NotebookLM como uma ferramenta de apoio 
 
 --------------------------------------------
 
-Como o NotebookLM foi utilizado
 O NotebookLM serviu como o hub central de processamento de informações multimodais. Ele permitiu:
 Sintetizar transcrições de entrevistas extensas com executivos e análises técnicas de vídeo
 
@@ -32,7 +31,7 @@ Tradução de linguagem técnica (como TOPS e TFLOPS) em insights práticos para
 
 --------------------------------------------
 
-Fontes e Documentos Utilizados
+Fontes e Documentos Utilizados: 
 A base de conhecimento foi composta por:
 Vídeos e Transcrições: Entrevistas da AMD Brasil (Priscila Bianchi), análises técnicas do canal Adrenaline sobre FSR 4 e guias de uso de ROCm no Linux
 
@@ -44,7 +43,7 @@ Documentação Técnica: Blogs oficiais da AMD sobre as séries Instinct MI350/4
 
 --------------------------------------------
 
-O Processo de Análise/Aprendizado
+O Processo de Análise/Aprendizado: 
 O projeto seguiu três fases distintas:
 Fase de Coleta: Upload de fontes variadas para cobrir tanto a perspectiva comercial (promoções) quanto a técnica (performance de inferência)
 
@@ -54,7 +53,7 @@ Fase de Comparação: Avaliação crítica entre a maturidade do software (CUDA 
 
 --------------------------------------------
 
-Principais Resultados e Insights
+Principais Resultados e Insights: 
 Liderança em IA Local: A AMD tomou a dianteira em notebooks com a série Ryzen AI 400, oferecendo até 60 TOPS, o que a posiciona como líder em eficiência para PCs Copilot+
 
 Importância da VRAM: Para desenvolvedores de IA, a capacidade de memória (VRAM) tornou-se a métrica principal, superando o FPS de jogos. GPUs como a RTX 5090 (32GB) e RTX 4090 (24GB) são os padrões recomendados para LLMs locais
